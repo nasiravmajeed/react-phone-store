@@ -1,6 +1,7 @@
 import React from 'react'
 import {Link } from 'react-router-dom'
 
+
 export default function CardTotal({value})
 {
 
@@ -31,7 +32,8 @@ export default function CardTotal({value})
                             total :</span>
                             <strong>$ {cartTotal}</strong>
                     </h5>
-                   
+                  
+
                 </div>
             </div>
         </div>

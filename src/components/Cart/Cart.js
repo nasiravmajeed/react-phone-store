@@ -21,7 +21,7 @@ return(
                             <Title name="your" title="cart"/>
                              <CartColumns />
                              <CartList value={value} />
-                             <CardTotal value={value} />
+                             <CardTotal value={value}/>
                         </React.Fragment>
                        
                     )

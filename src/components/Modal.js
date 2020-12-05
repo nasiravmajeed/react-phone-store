@@ -26,7 +26,7 @@ render() {
                                      Store
                                  </ButtonConatainer>
                              </Link>
-                             <Link to="/">
+                             <Link to="/cart">
                                  <ButtonConatainer cart onClick={()=>closeModal()}>
                                     goto cart
                                  </ButtonConatainer>
